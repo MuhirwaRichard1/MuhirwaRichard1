@@ -1,7 +1,7 @@
-<!-- README.md for MuhirwaRichard1 -->
-# 👋 Hi, I’m Muhirwa Richard (MuhirwaRichard1)
 
-**THE EVOLUTION OF AUTOMATION.** CMU Africa, Department of Electrical & Computer Engineering — #Robotics #AI #Embedded_system  
+# 👋 Hi, I’m Muhirwa Richard
+
+**THE EVOLUTION OF AUTOMATION.** CMU Africa, Department of Electrical & Computer Engineering   
 Professional work base on (Human robot Interaction and Development of UAVs)
 I build hobby projects and automation systems (Mobile-robots, home automation, turnstiles) using C/C++, Python and microcontrollers.
 
